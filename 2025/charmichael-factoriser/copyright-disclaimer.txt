@@ -1,0 +1,10 @@
+This algorithm / technique for factorising charmichael numbers was identified around 2017 while I was employed.
+
+The algorithm / pseudo-code dated 30-July-2017 can be found here.
+https://ravindrahv.wordpress.com/2017/07/30/charmichael-number-factorization/
+
+The claim to copyright on this program is on the basis of the fact that I am no longer employed and also with regard to the fact that I had include sorting and rsa related algorithms in the exceptions list as part of the IP prior to joining the organization. 
+
+Author - Ravindra Hasyagar
+Date - 09-Dec-2025
+
