@@ -9,11 +9,14 @@ import java.math.BigInteger;
  * </p>
  * 
  * <p>
- * From openai-chat-gpt (and also perhaps google-gemini-gpt) there is currently
+ * <s> From openai-chat-gpt (and also perhaps google-gemini-gpt) there is currently
  * no known way to factorise charmichael numbers. Then this program would be a
  * novel one, particularly useful in improving the confidence that a given
- * number is a prime or not
+ * number is a prime or not </s>
  * </p>
+ * <p> Addendum. It appears that the algorithm / technique is not so novel after all. 
+ * Just that I'd forgotten it. Gemini is aware however. Perhaps only ChatGPT is not aware.  
+ * Refer - https://crypto.stackexchange.com/questions/5279/carmichael-number-factoring </p>
  * 
  * <p>
  * It relies on a recursive technique that halves the exponent (after
